@@ -1,0 +1,27 @@
+.about{
+    margin-left: 800px;
+    position: absolute;
+    margin-right: 10PX;
+    border: 0px;
+    padding: 12px;
+    transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  
+}
+.about:hover{
+    background-color: aqua;
+}
+
+.skills{
+    margin-left: 900px;
+    position: absolute;
+    margin-top: 0px;
+}
+.projects{
+    margin-left: 1000px;
+    position: absolute;
+    margin-top: 0px;
+}
+.contact{
+    margin-left: 1100px;
+    position: absolute;
+}
